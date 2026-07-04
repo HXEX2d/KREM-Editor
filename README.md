@@ -7,7 +7,7 @@ Currently in **Alpha Dev Stage** — unstable and under active development.
 ---
 
 ## 🚧 Status
-Alpha Build (v0.1-dev)
+Alpha Build
 
 Expect bugs, unfinished features, and breaking changes.
 
